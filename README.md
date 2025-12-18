@@ -12,7 +12,9 @@
 ![alt text](https://github.com/Sayward-k8/sflt-hw-01/blob/main/img/1222.0.png)
   
 </details>  
+
 # Задание 2
+
   1. Запустите три simple python сервера на своей виртуальной машине на разных портах
   2. Настройте балансировку Weighted Round Robin на 7 уровне, чтобы первый сервер имел вес 2, второй - 3, а третий - 4
   3. HAproxy должен балансировать только тот http-трафик, который адресован домену example.local
